@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/4erCours/4erCours.iml" filepath="$PROJECT_DIR$/4erCours/4erCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6erCours/6erCours.iml" filepath="$PROJECT_DIR$/6erCours/6erCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7erCours/7erCours.iml" filepath="$PROJECT_DIR$/7erCours/7erCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8ercours/8ercours.iml" filepath="$PROJECT_DIR$/8ercours/8ercours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercice 1/Exercice 1.iml" filepath="$PROJECT_DIR$/Exercice 1/Exercice 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercice 2/Exercice 2.iml" filepath="$PROJECT_DIR$/Exercice 2/Exercice 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrepExamen/Partie1/Partie1.iml" filepath="$PROJECT_DIR$/PrepExamen/Partie1/Partie1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrepExamen/PrepExamen.iml" filepath="$PROJECT_DIR$/PrepExamen/PrepExamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StrucDonnées.iml" filepath="$PROJECT_DIR$/.idea/StrucDonnées.iml" />
+    </modules>
+  </component>
+</project>
